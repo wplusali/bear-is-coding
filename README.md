@@ -1,4 +1,4 @@
-# Building Up HTML
+# Bear is Coding
 
 ## Instructions
 
